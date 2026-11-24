@@ -53,4 +53,8 @@ serviceAccountKey.json
 node_modules/
 build/
 .dart_tool/
-**/android/local.properties
+**/android/local.propertiesgit status
+1
+2
+3
+4
